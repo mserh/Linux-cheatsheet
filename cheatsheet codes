@@ -1,0 +1,15 @@
+echo "text" - Linux will repeat text
+whoami - says what accoutn you're using
+id - gives you user information e.g
+  uid --> Your User ID (a unique numerical identifier).
+  gid -->  Your primary Group ID.
+  groups --> All the groups you are a member of.
+id -un - prints your username
+pwd  - stands for "print working directory". It displays your current location in the file system. 
+~ for your home directory
+  home directory --> The home directory is a directory associated with a user name in the system's user account database
+  current directory --> 
+ls - shows contents in your current directory 
+ls ~ - shows contents in your home directory
+cd .. moves you to the directory above
+cd ~
